@@ -1,3 +1,5 @@
 统计学习方法
 1.Perceptron.py
   感知机，代码参照：https://www.freesion.com/article/3913807715/
+2.KNN.py
+  k近邻法
