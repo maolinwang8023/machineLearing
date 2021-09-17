@@ -3,3 +3,5 @@
   感知机，代码参照：https://www.freesion.com/article/3913807715/
 2.KNN.py
   k近邻法
+3.NaiveBayes.py
+  朴树贝叶斯
